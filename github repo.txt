@@ -23,3 +23,5 @@ update file github di local, membuat code
 # putra coba edit
 
 # permisi dulu
+
+# saya melakukan perubahan di staging baru
